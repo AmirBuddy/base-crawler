@@ -35,7 +35,7 @@ Before using the tool, you need to configure a few settings in the code:
 To start the web scraping process, run the following command in your terminal:
 
 ```bash
-npm code.js
+node code.js
 ```
 
 The tool will fetch links from the specified website, and the results will be logged in the console.
